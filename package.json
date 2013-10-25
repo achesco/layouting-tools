@@ -1,0 +1,17 @@
+{
+	"name": "sgtrans",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"express": "latest",
+		"grunt": "~0.4.1",
+		"grunt-contrib-jade": "~0.8.0",
+		"grunt-contrib-watch": "~0.5.3",
+		"grunt-express-server": "~0.4.4",
+		"grunt-contrib-less": "~0.7.0"
+	}
+}

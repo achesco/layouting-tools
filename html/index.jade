@@ -1,0 +1,8 @@
+extends _layout
+include _blocks
+
+block content
+	#some-id.some-class(data-some-attr="yep")
+		.inner
+			+call-me('Passed string')
+	#widget text changed, again
