@@ -61,6 +61,7 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-less');
 	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-express-server');
+	grunt.loadNpmTasks('grunt-spritesmith');
 
 	grunt.registerTask('default', ['express:dev', 'watch']);
 };
