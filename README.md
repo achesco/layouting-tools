@@ -1,6 +1,8 @@
 layouting-tools
 ===============
-You gonna need:
+
+```npm install -g grunt-cli```
+
 
 http://gruntjs.com/configuring-tasks
 
