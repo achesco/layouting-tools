@@ -4,3 +4,15 @@
 .DS_Store
 .idea
 node_modules
+
+!html/
+html/*
+!html/fonts/
+!html/i/
+!html/jade/
+!html/css/
+html/css/main.css
+!html/js/
+!html/src/
+_icons.less
+icons.png
